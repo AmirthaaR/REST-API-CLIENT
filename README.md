@@ -25,3 +25,5 @@ The program includes basic error handling. If any issue arises—such as connect
 This example is ideal for beginners learning how to make API calls in Java, read server responses, and handle basic string parsing. It provides a clear introduction to REST client development using native Java features and is a good starting point for more advanced API integrations in the future.
 
 # OUTPUT
+
+<img width="435" height="87" alt="Image" src="https://github.com/user-attachments/assets/6e1c6b04-4f49-4374-bbcb-1a6c755b1ff6" />
