@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#DESCRIPTION ABOUT MY PROJECT 
+# DESCRIPTION ABOUT MY PROJECT 
 
 The JokeFetcher program is a simple Java-based REST API client designed to fetch and display a random joke from an external web service. It demonstrates how to connect to a public API using core Java libraries without relying on external dependencies like JSON parsing libraries.
 
